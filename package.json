@@ -1,0 +1,20 @@
+{
+  "name": "sampleapp",
+  "version": "0.0.0",
+  "description": "testing purpuses",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "braintree": "^2.0.2",
+    "express": "^4.15.2",
+    "util": "^0.10.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "samuel ruiz",
+  "license": "ISC"
+}
